@@ -1,0 +1,1 @@
+The data can be download from [here](https://www.amazon.com/clouddrive/share/d3KGCRCIYwhKJF0H3eWA26hjg2ZCRhjpEQtDL70FSBN) in languages: ar,bn,fi,id,ko,ru,sw,te,zh.
